@@ -4,7 +4,7 @@
 The time has come for us to unveil the code challenge Sytac has prepared for you. The challenge involves working with two files, "countries" and "population", and it includes the following tasks:
 
 ### Tasks
-1. Provide an application which shows thr content of the two files merged, the app should show a list of all the countries together with their population.
+1. Provide an application which shows the content of the two files merged, the app should show a list of all the countries together with their population.
 2. Show the total number of countries.
 3. Make posible to sort the lost by contry name or by population.  
 
