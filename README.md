@@ -6,7 +6,7 @@ The time has come for us to unveil the code challenge Sytac has prepared for you
 ### Tasks
 1. Provide an application which shows the content of the two files merged, the app should show a list of all the countries together with their population.
 2. Show the total number of countries.
-3. Make posible to sort the lost by contry name or by population.  
+3. Make posible to sort the list by country name or by population.  
 
 
 ### Requisites:
